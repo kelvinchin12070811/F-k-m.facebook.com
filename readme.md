@@ -1,4 +1,6 @@
-<style>@import('https://www.w3schools.com/w3css/4/w3.cs')</style>
+<style>
+    @import('https://www.w3schools.com/w3css/4/w3.css');
+</style>
 # F**k m.facebook.com
 
 Facebook redirect the www.facebook.com link to m.facebook.com link on mobile, but not in the other way. If you share a
