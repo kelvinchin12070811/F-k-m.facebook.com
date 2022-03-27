@@ -11,7 +11,7 @@
 // @grant        none
 // ==/UserScript==
 
-(() => {
+(function() {
     'use strict';
     document.write('Redirecting from mobile view to desktop view...');
 
