@@ -7,6 +7,7 @@
 // @homepage     https://github.com/kelvinchin12070811/F-k-m.facebook.com
 // @match        https://m.facebook.com/*
 // @icon         https://icons.duckduckgo.com/ip3/m.facebook.com.ico
+// @copyright    The Unlicense
 // @grant        none
 // ==/UserScript==
 
