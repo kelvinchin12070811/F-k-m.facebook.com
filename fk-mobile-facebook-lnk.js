@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         F**k m.facebook.com
-// @namespace    http://tampermonkey.net/
+// @namespace    https://kelvinchin12070811.gitlab.io/
 // @version      0.1
 // @description  Hello Facebook? Why not redirect m.facebook.com to www.facebook.com on desktop?
 // @author       Kelvin Chin
